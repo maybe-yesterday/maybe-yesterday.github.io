@@ -25,7 +25,6 @@ layout: default
 
 <div class="home-container">
   <div class="home-icon">✨</div>
-  <h1 class="home-title">{{ Corner Suite }}</h1>
   <p>{{ site.description }}</p>
   <a href="/blog" class="home-link"> B-Logs →</a>
 </div>

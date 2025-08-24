@@ -5,6 +5,13 @@ title: "Journal"
 
 # My Journal
 
+<header>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/blog">Journal</a>
+      </nav>
+</header>
+
 Here you'll find a collection of my thoughts and reflections.
 
 <hr>
