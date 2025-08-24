@@ -1,0 +1,7 @@
+# Site settings
+title: Ming Yan
+description: "Welcome to my personal corner of the internet!"
+author: Ming Yan
+
+# Build settings
+theme: minima # We use a base theme but override the layouts
