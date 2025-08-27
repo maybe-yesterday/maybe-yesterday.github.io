@@ -3,12 +3,12 @@ layout: default
 title: "Journal"
 ---
 
-# My Journal
+# B) Logs
 
 <header>
     <nav>
         <a href="/">Home</a>
-        <a href="/blog">Journal</a>
+        <a href="/blog">B-Logs</a>
       </nav>
 </header>
 
