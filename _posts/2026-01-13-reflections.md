@@ -2,11 +2,10 @@
 layout: post
 title: "Paper Reflections"
 date: 2026-01-13
-categories: blog
 ---
 
 
-## [1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities](https://openreview.net/pdf?id=s0JVsx3bx1)
+[1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities](https://openreview.net/pdf?id=s0JVsx3bx1)
 
 Deep RL are unstable when networks get too deep. 
 Address by moving away from reward-based RL toward **Self-Supervised Contrastive RL**

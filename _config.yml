@@ -1,7 +1,7 @@
 # Site settings
 title: Please don't stalk me
 description: "Welcome to my personal corner of the internet!"
-author: Anon User
+author: Ming Yan
 
 # Build settings
 theme: minima # We use a base theme but override the layouts
