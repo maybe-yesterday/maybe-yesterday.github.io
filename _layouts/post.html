@@ -1,17 +1,20 @@
 ---
 layout: default
---- 
-<article>
-  <h1>{{ page.title }}</h1>
-    <header>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/blog">B-Logs</a>
-      </nav>
-    </header>
-  <p><small>Published on {{ page.date | date: "%B %d, %Y" }}</small></p>
+---
+<article class="post">
+  <a href="/blog" class="post-back">← B-Logs</a>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <time class="post-date">{{ page.date | date: "%B %d, %Y" }}</time>
+  </header>
 
   <hr>
 
-  {{ content }}
+  <div class="post-body">
+    {{ content }}
+  </div>
+
+  <hr>
+
+  <p><a href="/blog">← Back to B-Logs</a></p>
 </article>
